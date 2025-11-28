@@ -6,8 +6,6 @@ With over a quarter of a century of real-world IT and software experience behind
 
 We believe that software can be more beautiful, clearer, and more intuitive. And we believe that a healthy ecosystem is built collaboratively — through many small improvements that suddenly make a big difference.
 
----
-
 ## Our Mission
 
 * **Maximize the Developer Experience**
@@ -22,15 +20,11 @@ We believe that software can be more beautiful, clearer, and more intuitive. And
 * **Practice over theory**
   Everything that is created must solve real problems. No experiments in a vacuum.
 
----
-
 ## Why Symfinity?
 
 Because developers deserve better tools. Because large organizations are sometimes too sluggish. And because small, focused tools are often the ones that can lift entire projects.
 
 Symfinity sees itself as a DX foundation in development: a growing project that is laying a robust foundation step by step for clean, modern, and inspiring Symfony development.
-
----
 
 ## Why support us now?
 
@@ -42,8 +36,6 @@ Your support enables:
 * The development of an ecosystem that ensures higher quality, more enjoyment, and less frustration in the long run
 
 If Symfinity saves you time in the long run, reduces technical debt, or simply saves you a lot of stress—then even a small contribution helps carry this momentum into a stable future.
-
----
 
 ## Our Vision
 
